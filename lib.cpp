@@ -16,3 +16,4 @@ bool funzione (char &a){
         t= false;
     }
     return t;
+}
