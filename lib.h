@@ -2,4 +2,5 @@
 #define ESERCITAZIONE6_LIB_H
 
 #endif //ESERCITAZIONE6_LIB_H
+
 bool funzione(char&);
